@@ -34,6 +34,10 @@ xs
 
 
 5
+conflict denemesi
+cong
+conf
+
 6
 7
 7
