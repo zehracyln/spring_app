@@ -15,9 +15,15 @@ ancak 4.
 
 
 zehra burada çalıştı..
+d demo 1 için conf denemesi.demo 2 burada işlem yaptı
+demo 2 burada devam eden işlem
+s
+d
+=======
 dsadsacsdcdedfvz a<vefc<dCAEWDA>>
 sfdvdsafrefvsedarf<a>
 dcdsv dcxv fvdfv
+>>>>>>> demo-1
 f
 a
 
@@ -33,7 +39,7 @@ xs
 
 
 
-5
+
 conflict denemesi
 cong
 conf
