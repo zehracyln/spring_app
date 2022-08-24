@@ -4,7 +4,30 @@
 2.bir değişiklik yapmış olsaydım.
 
 değişikler devammm...
+değişim devam
+ancak 4.
 
+
+
+5
+6
+7
+7
+8
+76
+u67
+th
+tfg
+bf
+gb
+g
+b
+cbbdfv
+ae
+Fr
+g
+f
+sz>>
 
 24.08.2022 
 //"Bugün kodlarda bir değişiklik yapıldığında onu terminal ile nasıl githuba aktarırız?" konulu bir çalışma yürüttük.
