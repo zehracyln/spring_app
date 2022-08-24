@@ -3,3 +3,4 @@
 .
 
 24.08.2022 
+//"Bugün kodlarda bir değişiklik yapıldığında onu terminal ile nasıl githuba aktarırız?" konulu bir çalışma yürüttük.
