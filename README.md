@@ -11,6 +11,20 @@ değişikler devammm...
 
 
 zehra burada çalıştı..
+d
+s
+d
+f
+a
+
+fe
+w
+qs
+xcs
+dw
+s
+xs
+
 
 
 24.08.2022 
