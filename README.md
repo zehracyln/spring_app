@@ -15,9 +15,9 @@ ancak 4.
 
 
 zehra burada çalıştı..
-d
-s
-d
+dsadsacsdcdedfvz a<vefc<dCAEWDA>>
+sfdvdsafrefvsedarf<a>
+dcdsv dcxv fvdfv
 f
 a
 
