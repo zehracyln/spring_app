@@ -15,6 +15,20 @@ ancak 4.
 
 
 zehra burada çalıştı..
+d
+s
+d
+f
+a
+
+fe
+w
+qs
+xcs
+dw
+s
+xs
+
 
 
 
