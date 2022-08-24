@@ -15,7 +15,8 @@ ancak 4.
 
 
 zehra burada çalıştı..
-d
+d demo 1 için conf denemesi.demo 2 burada işlem yaptı
+demo 2 burada devam eden işlem
 s
 d
 f
@@ -33,7 +34,7 @@ xs
 
 
 
-5
+
 conflict denemesi
 cong
 conf
